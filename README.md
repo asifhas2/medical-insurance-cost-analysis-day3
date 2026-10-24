@@ -155,6 +155,9 @@ import pandas as pd
 df = pd.read_csv("insurance.csv")
 
 df.head()
+```
+
+**Note:** Replace `insurance.csv` with the actual filename and path of your dataset if they differ.
 
 ### 7. Run the Notebook
 
